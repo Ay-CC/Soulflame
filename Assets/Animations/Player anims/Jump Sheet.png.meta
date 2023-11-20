@@ -124,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d8e2f10016d1f64db1752fbad6a5524
-      internalID: -1490165658
+      spriteID: eb45f5560bb37ca4485d3e403f54f785
+      internalID: 1433736481
       vertices: []
       indices: 
       edges: []
@@ -145,8 +145,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4482942f78631404281ad514c27f8135
-      internalID: -1262814467
+      spriteID: c18cb8ad4be646b4ab7367e524a02a85
+      internalID: -1143538664
       vertices: []
       indices: 
       edges: []
@@ -166,8 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d3973a74216c9f4a9d2f139c728181e
-      internalID: -964684489
+      spriteID: ae7e33a0c3680194daa040c4c23cdfc1
+      internalID: 627097155
       vertices: []
       indices: 
       edges: []
@@ -187,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 323acacd80f4c8347a08e8887d731eda
-      internalID: -1054516221
+      spriteID: bb74b67347a62ec48a3915dad105d6af
+      internalID: 1116076646
       vertices: []
       indices: 
       edges: []
@@ -208,8 +208,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 706367b75100f7844b12843e5d17812e
-      internalID: 955697935
+      spriteID: 3f88761acea8f4d428877a0a437ee255
+      internalID: 1034317421
       vertices: []
       indices: 
       edges: []
@@ -229,8 +229,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6131f1adb55df20469e223dbf3cc5c09
-      internalID: -1117293804
+      spriteID: 450eaf17bf890ba4cb3adbb0b96fa9f0
+      internalID: -58723240
       vertices: []
       indices: 
       edges: []
@@ -246,12 +246,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Jump Sheet_0: -1490165658
-      Jump Sheet_1: -1262814467
-      Jump Sheet_2: -964684489
-      Jump Sheet_3: -1054516221
-      Jump Sheet_4: 955697935
-      Jump Sheet_5: -1117293804
+      Jump Sheet_0: 1433736481
+      Jump Sheet_1: -1143538664
+      Jump Sheet_2: 627097155
+      Jump Sheet_3: 1116076646
+      Jump Sheet_4: 1034317421
+      Jump Sheet_5: -58723240
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
